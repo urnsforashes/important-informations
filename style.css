@@ -77,12 +77,12 @@ header h1, header h2{
 .back h2, .back p, .back a{
   letter-spacing: .6px;
 }
-.back a{
+a{
   text-decoration: none;
   color:yellow;
   transition:all .4s ease-in-out;
 }
-.back a:hover{
+a:hover{
   color:rgb(255, 208, 0);
 }
 .front img{
